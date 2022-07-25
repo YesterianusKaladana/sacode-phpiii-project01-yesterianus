@@ -2,9 +2,9 @@
 Belajar Dasar Dasar Pemprograman PHP
 
 ### kelas hari ini
-✅ index
-✅ syntax
-✅ comments
-✅ php-html
-✅ variables
-✅ echo-print
+	✅ index
+	✅ syntax
+	✅ comments
+	✅ php-html
+	✅ variables
+	✅ echo-print
